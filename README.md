@@ -2,9 +2,9 @@
 
 A Flutter project for understanding everything about themification of an app in Flutter.
 
-## Credits
+## Thanks to
 
-- [FlutterMentor](https://www.youtube.com/watch?v=9iQiVUmLXyI)
+[FlutterMentor](https://www.youtube.com/watch?v=9iQiVUmLXyI 'Everything About Flutter Themes In Less Than 10 Minutes')
 
 ## Getting Started
 
