@@ -1,14 +1,18 @@
 import 'package:flutter/material.dart';
 
-void main() => runApp(const ThemificationApp());
+import 'package:themification/components.dart';
+
+void main() => runApp(ThemificationApp());
 
 class ThemificationApp extends StatelessWidget {
-  const ThemificationApp({super.key});
+  ThemificationApp({super.key});
 
   @override
   Widget build(BuildContext context) {
-    return const MaterialApp(
+    return MaterialApp(
       title: 'Themification',
+      theme: theme,
+      // darkTheme: darkTheme,
       home: HomePage(),
     );
   }
@@ -19,6 +23,6 @@ class HomePage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const Scaffold();
+    return HomeScreen();
   }
 }
