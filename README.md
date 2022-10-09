@@ -2,10 +2,6 @@
 
 A Flutter project for understanding everything about themification of an app in Flutter.
 
-## Credits
-
-- [FlutterMentor](https://www.youtube.com/watch?v=9iQiVUmLXyI)
-
 ## Getting Started
 
 A few resources to get you started:

@@ -33,7 +33,7 @@ class HomePage extends StatelessWidget {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.spaceEvenly,
           children: [
-            Text('Header'),
+            Text('Text'),
             ElevatedButton(
               onPressed: () {},
               child: Text('Elevated Button'),
